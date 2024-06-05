@@ -1,6 +1,10 @@
 # Capacitação Git\
 Repositório dedicado à capacitação dos trainees de 2024/1 ao uso do Git
 
+# Nomes!!!
+
+- Renato
+
 ## Introdução ao Git e Controle de Versão
 - **Controle de versão:** Sistema que registra alterações em um arquivo ou conjunto de arquivos ao longo do tempo para que você possa revisitar versões específicas posteriormente.
 - **Git:** Sistema de controle de versão distribuído, amplamente usado na indústria de software.
